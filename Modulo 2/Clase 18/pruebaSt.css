@@ -1,0 +1,9 @@
+.hidden{
+    /* display: none;    esta clase la oculta y reacomoda los elementos */
+    visibility: hidden;
+    /* la clase visibility la oculta pero deja su espacio libre */
+}
+.alert {
+    display: block;
+    color: red;
+}

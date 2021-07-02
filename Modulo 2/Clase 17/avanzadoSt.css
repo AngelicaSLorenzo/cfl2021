@@ -1,0 +1,40 @@
+ul > li{
+    color:purple;
+}
+h1{
+    font-style: italic ;
+    font-family: sans-serif ;
+}
+
+.lista{
+    font-style: italic ;
+    font-weight: bolder;
+    color:royalblue
+}
+
+.aniversario{
+    color: blue;
+}
+
+.span1{
+    font-style: italic;
+    color:red
+}
+
+.fotos{
+    background-color: steelblue;
+}
+.fotos:hover{
+    background-color: yellow;
+}
+
+.comentario{
+    background-color: blue;
+}
+.comentario:hover{
+    background-color:red;
+}
+/* el de abajo no me funciona */
+.comentario:visited{
+    border-radius: 5px;
+}

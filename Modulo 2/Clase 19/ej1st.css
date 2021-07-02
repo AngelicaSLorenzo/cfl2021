@@ -1,0 +1,14 @@
+.ver {
+  visibility: visible;
+  color: white;
+  background-color: gray;
+}
+
+div {
+  visibility: hidden;
+}
+
+.btn {
+    border-radius: 7px;
+    background-color:  burlywood;
+}

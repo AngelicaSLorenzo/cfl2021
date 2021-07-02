@@ -1,0 +1,50 @@
+.contenedor {
+    background-color: grey;
+}
+
+.h1, .h2 {
+    color: red;
+
+}
+.bold {
+   font-weight: bold; 
+}
+
+.img {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid;
+}
+
+.gatito {
+    width: 300px;
+    margin: 0 95px;
+    border: 1px solid;
+}
+
+/* ---------------------------------------------------------------------------------------- */
+/* EJERCICIO 2 */
+/* #miBoton {
+    background-color: darksalmon;
+    border-radius: 20px;
+}
+#limpiar {
+    background-color: firebrick;
+    border-radius: 6px;
+} */
+
+/* ------------------------------------------------------------------------------------------- */
+/* EJERCICIO 3 */
+/* #uno, #dos, #tres, #cuatro{
+    border: 1px solid #000;
+    margin-bottom: 10px;
+    background-color: grey;
+}
+
+.img {
+    width: 640px;
+    height: 360px;
+    margin-left: 25%;
+    margin-top: 10px ;
+    margin-bottom: 10px;
+} */

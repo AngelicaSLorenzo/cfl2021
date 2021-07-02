@@ -1,0 +1,28 @@
+body{
+    background-image: url(../1Imgns/foto\ playa.jpg);
+}
+
+h1{
+    color: rgb(54, 61, 68);
+}
+h2{
+    color: crimson;
+    font-size: 5rem;
+}
+.subrayado{
+    text-decoration: underline;
+}
+.letra-grande{
+    font-size: 4rem;
+}
+h3{
+    color: darkblue;
+    font-size: 5fr;
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+}
+h4{
+    color: darkolivegreen;
+    font-weight: bold;
+    font-style: italic;
+}
